@@ -1,75 +1,108 @@
 <h1 align="center">Hi 👋, I'm Rishi Dusane</h1>
-<h3 align="center">Software Engineer | Java | Spring Boot | React.js | Full Stack Developer</h3>
+<h3 align="center">Software Engineer | Java | Spring Boot | Microservices | React.js | Full Stack Developer</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishidusane/">
+    <img src="https://img.shields.io/badge/LinkedIn-RishiDusane-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:rishidusane5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a PG-DAC graduate with a strong interest in building scalable backend systems and full stack web applications. I enjoy solving problems, designing clean APIs, and developing applications that follow good software engineering practices.
+💻 CDAC-trained Software Engineer with strong foundations in **Java, Object-Oriented Programming, and Backend Development**.  
+🚀 Experienced in building scalable applications using **Spring Boot, Microservices architecture, RESTful APIs, and MySQL**.  
+🔐 Hands-on experience implementing secure authentication using **JWT and Spring Security**.  
+📈 Passionate about backend engineering, clean architecture, and building production-ready software systems.
 
-I am currently focused on improving Data Structures & Algorithms, backend development, and building real-world projects using modern technologies.
-
-- 🌱 Currently learning: Microservices Architecture, AWS & Azure
-- 💻 Strong interest in Backend Development
-- 🚀 Open to Software Developer opportunities
+- 🌱 Currently learning: Advanced Microservices, AWS & Azure
+- 🔭 Focused on Backend & System Design fundamentals
+- 🧠 Actively improving Data Structures & Algorithms
+- 🤝 Open to Software Developer opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Java
-- JavaScript
-- SQL
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,sql" />
+</p>
 
-### Backend
-- Spring Boot
-- REST APIs
-- Microservices (Basics)
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" />
+</p>
 
-### Frontend
-- React.js
-- HTML
-- CSS
-- JavaScript
+- Spring Boot  
+- Microservices Architecture  
+- RESTful APIs  
+- Spring Security & JWT  
+- Spring Data JPA & Hibernate  
+- API Gateway Architecture  
 
-### Database
-- MySQL
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
-### Tools & Technologies
-- Git & GitHub
-- Maven
-- Postman
-- VS Code
-- IntelliJ IDEA
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-### Cloud (Learning)
-- AWS
-- Microsoft Azure
+### 🧰 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,idea" />
+</p>
+
+### ☁️ Cloud (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Prime Properties
-A full stack real estate management application developed using Spring Boot and React.js. The application includes role-based access, property management, and RESTful API integration with a structured backend architecture.
+### 🔹 TripSync – Travel Management System (Microservices)
+A microservices-based travel management platform developed using **Spring Boot and Spring Cloud**.  
+Implemented independent services for authentication, catalog, booking, and feedback with centralized routing using API Gateway. Secure authentication implemented using JWT and Spring Security.
 
-### 🔹 [Add Your Next Project Name]
-Short description explaining the problem solved and technologies used.
+🔗 Repository: https://github.com/RishiDusane/TripSync
+
+---
+
+### 🔹 Prime Properties – Real Estate Management System
+A full stack real estate management application built using **Spring Boot** and **React.js**.  
+Implemented role-based access control, property management workflows, and RESTful APIs following layered architecture and clean coding practices.
+
+🔗 Repository: https://github.com/RishiDusane/PRIME-PROPERTIES-FULLSTACK
 
 ---
 
 ## 📈 Currently Working On
-- Improving Data Structures & Algorithms
-- Backend performance and clean architecture
-- Building production-ready full stack applications
+- Data Structures & Algorithms
+- Backend optimization & clean architecture
+- Microservices communication patterns
+- Building scalable full stack applications
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/rishidusane/
-- Email: rishidusane5@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/rishidusane/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:rishidusane5@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
