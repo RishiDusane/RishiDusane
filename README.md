@@ -68,9 +68,9 @@ Short description explaining the problem solved and technologies used.
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your-email@gmail.com
+- LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/rishidusane/)
+- Email: rishidusane5@gmail.com
 
 ---
 
-⭐️ From [RishiDusane](https://github.com/your-username)
+⭐️ From [RishiDusane](https://github.com/RishiDusane)
