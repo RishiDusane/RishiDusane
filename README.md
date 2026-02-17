@@ -68,7 +68,7 @@ Short description explaining the problem solved and technologies used.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/rishidusane/)
+- LinkedIn: https://www.linkedin.com/in/rishidusane/
 - Email: rishidusane5@gmail.com
 
 ---
