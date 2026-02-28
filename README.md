@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Dusane</h1>
-<h3 align="center">Software Engineer | Java | Spring Boot | Microservices | React.js | Full Stack Developer</h3>
+<h3 align="center">CDAC (PG-DAC) Certified Software Engineer | Java | Spring Boot | Microservices | Backend Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishidusane/">
@@ -14,15 +14,15 @@
 
 ## 👨‍💻 About Me
 
-💻 CDAC-trained Software Engineer with strong foundations in **Java, Object-Oriented Programming, and Backend Development**.  
-🚀 Experienced in building scalable applications using **Spring Boot, Microservices architecture, RESTful APIs, and MySQL**.  
-🔐 Hands-on experience implementing secure authentication using **JWT and Spring Security**.  
-📈 Passionate about backend engineering, clean architecture, and building production-ready software systems.
+💻 CDAC (PG-DAC, Pune) certified Software Engineer with hands-on experience in building backend systems using **Java and Spring Boot**.  
+🚀 Experienced in developing **microservices-based applications**, secure REST APIs, and full-stack systems.  
+🔐 Strong focus on **JWT-based authentication, RBAC, and secure API design**.  
+📈 Passionate about clean architecture, SOLID principles, and performance optimization.
 
-- 🌱 Currently learning: Advanced Microservices, AWS & Azure
-- 🔭 Focused on Backend & System Design fundamentals
-- 🧠 Actively improving Data Structures & Algorithms
-- 🤝 Open to Software Developer opportunities
+- 🔭 Focused on Backend Development & Microservices Architecture  
+- 🧠 Strengthening Data Structures & Algorithms  
+- ⚙️ Interested in scalable system design & distributed systems  
+- 🤝 Open to Software Engineering opportunities  
 
 ---
 
@@ -30,7 +30,7 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,sql" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,sql" />
 </p>
 
 ### ⚙️ Backend
@@ -39,57 +39,68 @@
 </p>
 
 - Spring Boot  
-- Microservices Architecture  
-- RESTful APIs  
 - Spring Security & JWT  
 - Spring Data JPA & Hibernate  
-- API Gateway Architecture  
+- RESTful Web Services  
+- Microservices Architecture  
+- Controller-Service-Repository Pattern  
+- SOLID Principles & Design Patterns  
 
-### 🎨 Frontend
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### 🗄️ Database
+### 🧪 Testing & Documentation
+- JUnit (Unit & Integration Testing)  
+- Swagger / OpenAPI  
+- Postman  
+
+### 🐳 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,maven,idea,vscode" />
 </p>
 
-### 🧰 Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,idea" />
-</p>
-
-### ☁️ Cloud (Learning)
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure" />
-</p>
+- Docker & Docker Compose  
+- CI/CD (GitHub Actions)  
+- Linux (Ubuntu)  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 TripSync – Travel Management System (Microservices)
-A microservices-based travel management platform developed using **Spring Boot and Spring Cloud**.  
-Implemented independent services for authentication, catalog, booking, and feedback with centralized routing using API Gateway. Secure authentication implemented using JWT and Spring Security.
+### 🔹 TripSync – Cloud-Native Travel Booking Platform
+Microservices-based travel booking system built using **Java 21, Spring Boot, JWT, MySQL, and Docker**.
+
+- Designed 5 loosely coupled services (User, Booking, Payment, Notification, API Gateway)
+- Built 20+ RESTful APIs with centralized exception handling
+- Implemented JWT-based stateless authentication & RBAC
+- Improved MySQL query performance by ~30% via indexing & schema optimization
+- Achieved ~75% service-layer test coverage using JUnit
+- Containerized services and configured CI/CD using GitHub Actions
 
 🔗 Repository: https://github.com/RishiDusane/TripSync
 
 ---
 
-### 🔹 Prime Properties – Real Estate Management System
-A full stack real estate management application built using **Spring Boot** and **React.js**.  
-Implemented role-based access control, property management workflows, and RESTful APIs following layered architecture and clean coding practices.
+### 🔹 Prime Properties – Full Stack Real Estate Management System
+Full-stack application using **Spring Boot + React.js + MySQL + JWT + Docker**.
+
+- Developed 15+ REST APIs with layered architecture
+- Implemented role-based access control
+- Resolved N+1 query problem using Hibernate optimization
+- Achieved ~70% test coverage
+- Used Docker Compose for consistent development environments
 
 🔗 Repository: https://github.com/RishiDusane/PRIME-PROPERTIES-FULLSTACK
 
 ---
 
 ## 📈 Currently Working On
-- Data Structures & Algorithms
-- Backend optimization & clean architecture
-- Microservices communication patterns
-- Building scalable full stack applications
+- Advanced Microservices Concepts  
+- Backend Performance Optimization  
+- Data Structures & Algorithms  
+- Clean Architecture & System Design  
 
 ---
 
@@ -106,4 +117,4 @@ Implemented role-based access control, property management workflows, and RESTfu
 
 ---
 
-⭐️ From [RishiDusane](https://github.com/RishiDusane)
+⭐️ From RishiDusane
