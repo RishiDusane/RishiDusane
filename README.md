@@ -3,12 +3,7 @@
 <!-- ████████████████████  ANIMATED HEADER BANNER  ████████████████████ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:1a1a3e,60:2d1b69,100:0f0c29&height=220&section=header&text=Rishi%20Dusane&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=%E2%9A%99%EF%B8%8F%20Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices%20%7C%20Cloud-Native%20Systems&descAlignY=60&descSize=17&descColor=c4b5fd&animation=fadeIn&stroke=7c3aed&strokeWidth=1" />
 
-<br/>
 
-<!-- 🎨 CARTOON DEVELOPER ANIMATION — centered hero visual -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Developer Animation"/>
-
-<br/>
 
 <!-- POWER BRANDING STATEMENT -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=99999&color=8B5CF6&center=true&vCenter=true&width=700&height=28&lines=%E2%80%9C+Turning+Complex+Problems+into+Scalable+Backend+Solutions+%E2%80%9D)](https://git.io/typing-svg)
