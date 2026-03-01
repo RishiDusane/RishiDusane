@@ -1,234 +1,339 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rishi%20Dusane&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=CDAC+%28PG-DAC%29+Certified+Software+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Backend+Systems;Clean+Code+%7C+SOLID+Principles+%7C+System+Design)](https://git.io/typing-svg)
+<!-- ████████████████████  ANIMATED HEADER BANNER  ████████████████████ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:1a1a3e,60:2d1b69,100:0f0c29&height=220&section=header&text=Rishi%20Dusane&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=%E2%9A%99%EF%B8%8F%20Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices%20%7C%20Cloud-Native%20Systems&descAlignY=60&descSize=17&descColor=c4b5fd&animation=fadeIn&stroke=7c3aed&strokeWidth=1" />
 
 <br/>
 
-<!-- PROFILE BADGES -->
+<!-- POWER BRANDING STATEMENT -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=99999&color=8B5CF6&center=true&vCenter=true&width=700&height=28&lines=%E2%80%9C+Turning+Complex+Problems+into+Scalable+Backend+Solutions+%E2%80%9D)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- TYPING ANIMATION — SKILLS ROTATOR -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=CDAC+%28PG-DAC%29+Certified+Software+Engineer+%F0%9F%8E%93;Java+%7C+C%23+%7C+Spring+Boot+%7C+Microservices;Designing+Production-Grade+Distributed+Systems;JWT+%7C+RBAC+%7C+Secure+REST+API+Architecture;Clean+Code+%E2%80%A2+SOLID+Principles+%E2%80%A2+System+Design;Open+to+Senior+Backend+Engineering+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ── SOCIAL BADGES ── -->
 <a href="https://www.linkedin.com/in/rishidusane/">
-  <img src="https://img.shields.io/badge/LinkedIn-Rishi%20Dusane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-Rishi%20Dusane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>&nbsp;
 <a href="mailto:rishidusane5@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-rishidusane5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
+  <img src="https://img.shields.io/badge/Gmail-rishidusane5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>&nbsp;
 <a href="https://leetcode.com/u/RishiDusane/">
-  <img src="https://img.shields.io/badge/LeetCode-RishiDusane-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-RishiDusane-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
+</a>&nbsp;
+<a href="https://github.com/RishiDusane">
+  <img src="https://img.shields.io/badge/GitHub-RishiDusane-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=RishiDusane&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/RishiDusane?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" />
+<!-- PROFILE VIEWS & STATUS BADGES -->
+<img src="https://komarev.com/ghpvc/?username=RishiDusane&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS" />&nbsp;
+<img src="https://img.shields.io/github/followers/RishiDusane?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" />&nbsp;
+<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-a78bfa?style=for-the-badge&labelColor=0d1117" />&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work%20%F0%9F%9F%A2-22c55e?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
----
+<br/>
 
-<!-- ABOUT ME SECTION -->
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<!-- ████████  ANIMATED DIVIDER  ████████ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ████████████████████  ABOUT ME  ████████████████████ -->
+
+<img align="right" alt="Backend Engineering" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ## 🧑‍💻 About Me
 
 ```yaml
-name:       Rishi Dusane
-role:       Backend Software Engineer
-certified:  CDAC PG-DAC, Pune
-focus:      Java · Spring Boot · Microservices
-interests:  Scalable Systems · Clean Architecture
-            Distributed Systems · DSA
-status:     Open to Opportunities 🚀
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  name        :  Rishi Dusane
+  role        :  Backend Software Engineer
+  certified   :  CDAC PG-DAC · Pune, India 🎓
+  core_stack  :  Java · C# · Spring Boot · Microservices
+  expertise   :  Distributed Systems · Secure API Design
+                 Clean Architecture · System Design
+  mindset     :  Performance-driven · Detail-oriented
+                 Scalability-first · Production-grade
+  status      :  🟢 Open to Opportunities
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-- 🏛️ **CDAC (PG-DAC, Pune)** certified engineer with strong backend foundations
-- ⚙️ Experienced in **microservices architecture**, secure REST APIs & full-stack development
-- 🔐 Deep focus on **JWT authentication, RBAC, and API security**
-- 📐 Advocate for **clean architecture, SOLID principles & design patterns**
-- 🧠 Actively strengthening **DSA & system design** skills
-- 🤝 Open to **Software Engineering** opportunities
+- 🏛️ **CDAC (PG-DAC, Pune)** certified with deep grounding in enterprise backend engineering
+- ⚙️ Proven track record building **production-grade microservices**, secure REST APIs & full-stack systems
+- 🔐 Specialized in **JWT authentication, RBAC, token lifecycle management** & API security architecture
+- 📐 Strong advocate of **Clean Architecture, SOLID principles, DRY & design patterns**
+- 🧠 Consistently sharpening **Data Structures, Algorithms & distributed system design**
+- 🤝 Actively seeking **Software Engineering / Backend Engineering** roles
 
 <br clear="right"/>
 
----
+<!-- ████████  ANIMATED DIVIDER  ████████ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 ### 💬 Languages
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js&theme=dark" />
 <br/>
 
+<img src="https://skillicons.dev/icons?i=java,cs,python,cpp,js&theme=dark&perline=10" />
+
+<br/><br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
 ### ⚙️ Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=spring,dotnet&theme=dark" />
+
+<br/><br/>
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logo=apachekafka&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC%20Security-7c3aed?style=flat-square&logo=shield&logoColor=white)
+
+---
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 <br/>
 
-### 🐳 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,maven,idea,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+<br/><br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+### 🧪 Testing & Documentation
+<br/>
+
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square&logo=java&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+
+---
+
+### 🐳 DevOps, Cloud & Infrastructure
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,maven,idea,vscode,linux&theme=dark" />
+
+<br/><br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 </div>
 
----
+<!-- ████████  ANIMATED DIVIDER  ████████ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📌 Featured Projects
 
 <div align="center">
 
-### 🌐 TripSync — Cloud-Native Travel Booking Platform
+| 🌐 [TripSync](#-tripsync--cloud-native-travel-booking-platform) | 🏠 [Prime Properties](#-prime-properties--full-stack-real-estate-management-system) |
+|:---:|:---:|
+| Cloud-Native · Microservices · Java 21 | Full-Stack · Spring Boot · React.js |
 
 </div>
 
-> **Java 21 · Spring Boot · Microservices · JWT · MySQL · Docker · GitHub Actions**
+<br/>
 
-A production-grade, cloud-native travel booking system built with a **fully decoupled microservices architecture**.
+### 🌐 TripSync — Cloud-Native Travel Booking Platform
 
-| Feature | Detail |
-|---|---|
-| 🏗️ Architecture | 5 loosely coupled services — User, Booking, Payment, Notification, API Gateway |
-| 🔌 APIs | 20+ RESTful endpoints with centralized exception handling |
-| 🔐 Security | JWT stateless authentication & Role-Based Access Control (RBAC) |
-| ⚡ Performance | ~30% MySQL query improvement via indexing & schema optimization |
-| 🧪 Testing | ~75% service-layer coverage with JUnit |
-| 🐳 DevOps | Fully containerized with Docker; CI/CD via GitHub Actions |
+<div align="center">
+
+> **`Java 21`** &nbsp;·&nbsp; **`Spring Boot`** &nbsp;·&nbsp; **`Microservices`** &nbsp;·&nbsp; **`JWT + RBAC`** &nbsp;·&nbsp; **`MySQL`** &nbsp;·&nbsp; **`Docker`** &nbsp;·&nbsp; **`GitHub Actions CI/CD`**
+
+</div>
+
+A **production-grade, cloud-native** travel booking platform architected with a fully decoupled event-driven microservices design — engineered for horizontal scalability, fault isolation, and enterprise-level reliability.
+
+| 🔖 Dimension | 💡 Implementation & Impact |
+|:---|:---|
+| 🏗️ **System Architecture** | 5 independently deployable, domain-isolated services — User, Booking, Payment, Notification & API Gateway |
+| 🔌 **API Design** | 20+ RESTful endpoints with centralized exception handling, standardized error contracts & typed response envelopes |
+| 🔐 **Security Layer** | Stateless JWT authentication (HS256) with full Role-Based Access Control (RBAC) & secured inter-service communication |
+| ⚡ **Performance Engineering** | ~30% reduction in MySQL query latency via composite indexing, schema normalization & query plan optimization |
+| 🧪 **Quality Assurance** | ~75% service-layer test coverage — JUnit 5 + Mockito with isolated unit & integration test suites |
+| 🐳 **DevOps & Delivery** | Fully containerized with Docker & Docker Compose; automated CI/CD pipelines deployed via GitHub Actions |
 
 <div align="center">
   <a href="https://github.com/RishiDusane/TripSync">
-    <img src="https://img.shields.io/badge/🔗%20View%20Repository-TripSync-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/⚡%20Explore%20TripSync%20on%20GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
 </div>
 
 <br/>
 
-<div align="center">
+---
 
 ### 🏠 Prime Properties — Full-Stack Real Estate Management System
 
+<div align="center">
+
+> **`Spring Boot`** &nbsp;·&nbsp; **`React.js`** &nbsp;·&nbsp; **`MySQL`** &nbsp;·&nbsp; **`JWT + RBAC`** &nbsp;·&nbsp; **`Hibernate`** &nbsp;·&nbsp; **`Docker Compose`**
+
 </div>
 
-> **Spring Boot · React.js · MySQL · JWT · Hibernate · Docker Compose**
+An **enterprise-grade, full-stack** property management platform with multi-role authorization, optimized ORM data access, and containerized deployment — built to simulate real-world operational demands.
 
-A full-stack property management platform with enterprise-grade security and optimized data access.
-
-| Feature | Detail |
-|---|---|
-| 🔌 APIs | 15+ REST endpoints with clean layered architecture |
-| 🔐 Security | Role-based access control (Admin / Agent / Buyer) |
-| ⚡ Performance | Resolved N+1 query problem via Hibernate fetch strategies |
-| 🧪 Testing | ~70% test coverage with JUnit |
-| 🐳 DevOps | Docker Compose for reproducible dev environments |
+| 🔖 Dimension | 💡 Implementation & Impact |
+|:---|:---|
+| 🏗️ **Architecture** | Clean Controller → Service → Repository layered design with strict separation of concerns across all modules |
+| 🔌 **API Design** | 15+ REST endpoints with structured request/response DTOs, input validation & global exception handling |
+| 🔐 **Authorization** | Granular role-based access control for three distinct personas — Admin, Agent & Buyer — via Spring Security |
+| ⚡ **ORM Optimization** | Eliminated N+1 query problem using Hibernate `JOIN FETCH`, `@EntityGraph` & strategic eager/lazy loading |
+| 🧪 **Test Coverage** | ~70% coverage across service and integration layers with reproducible, environment-agnostic JUnit test suites |
+| 🐳 **DevOps** | Docker Compose orchestration ensuring consistent, reproducible local and staging environment deployments |
 
 <div align="center">
   <a href="https://github.com/RishiDusane/PRIME-PROPERTIES-FULLSTACK">
-    <img src="https://img.shields.io/badge/🔗%20View%20Repository-Prime%20Properties-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/⚡%20Explore%20Prime%20Properties%20on%20GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
 </div>
 
----
+<!-- ████████  ANIMATED DIVIDER  ████████ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RishiDusane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiDusane&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RishiDusane&theme=tokyonight&border_radius=12&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=a78bfa&dates=888888" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=RishiDusane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed" />&nbsp;&nbsp;
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiDusane&layout=compact&langs_count=8&theme=tokyonight&border_radius=14&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+
+<br/><br/>
+
+<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=RishiDusane&theme=tokyonight&border_radius=14&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=8b5cf6&dates=6b7280&currStreakNum=ffffff" />
+
+<br/><br/>
+
+<img width="72%" src="https://github-readme-activity-graph.vercel.app/graph?username=RishiDusane&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" />
 
 </div>
 
----
+<!-- ████████  ANIMATED DIVIDER  ████████ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 LeetCode Stats
+## 🏆 LeetCode — Problem Solving
 
 <div align="center">
 
+<br/>
+
 <a href="https://leetcode.com/u/RishiDusane/">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=RishiDusane&theme=dark" alt="LeetCode Stats" width="50%"/>
+  <img src="https://leetcode-stats-six.vercel.app/api?username=RishiDusane&theme=dark" alt="LeetCode Stats" width="52%"/>
 </a>
 
 <br/><br/>
 
+![LeetCode](https://img.shields.io/badge/Focus-Arrays%20%7C%20Trees%20%7C%20Graphs%20%7C%20Dynamic%20Programming-7c3aed?style=flat-square&labelColor=0d1117)
+![LeetCode](https://img.shields.io/badge/Approach-Pattern%20Recognition%20%7C%20Optimal%20Complexity-a78bfa?style=flat-square&labelColor=0d1117)
+
+<br/>
+
 <a href="https://leetcode.com/u/RishiDusane/">
-  <img src="https://img.shields.io/badge/🧩%20Solve%20with%20me%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧩%20Challenge%20Me%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
 </a>
 
 </div>
 
----
+<!-- ████████  ANIMATED DIVIDER  ████████ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏅 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RishiDusane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RishiDusane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=8&column=7" />
 
 </div>
 
----
+<!-- ████████  ANIMATED DIVIDER  ████████ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Currently Working On
+## 📈 Currently Engineering
 
 <div align="center">
 
-| Area | Focus |
-|---|---|
-| 🔬 Microservices | Event-driven architecture with Kafka |
-| 🚀 Performance | Backend optimization & caching strategies |
-| 🧠 DSA | LeetCode — Arrays, Trees, Graphs, DP |
-| 🏛️ Architecture | Clean Architecture & System Design patterns |
+<br/>
+
+| 🚀 Domain | 🔬 What I'm Building & Learning |
+|:---:|:---|
+| ☁️ **Advanced Microservices** | Event-driven architecture with Apache Kafka · Service mesh · Saga pattern · CQRS |
+| ⚡ **Backend Performance** | Redis caching strategies · Connection pooling · Async processing & thread optimization |
+| 🧠 **Data Structures & Algorithms** | LeetCode — Graphs, Trees, DP, Sliding Window, Binary Search — pattern-first approach |
+| 🏛️ **System Design** | Architecting for 10M+ users · CAP theorem · Consistent hashing · Rate limiting · Load balancing |
+| 🔐 **Security Engineering** | OAuth 2.0 deep-dive · API threat modeling · Zero-trust architecture patterns |
+
+<br/>
 
 </div>
 
----
+<!-- ████████  ANIMATED DIVIDER  ████████ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Let's Connect
+## 🤝 Let's Build Something Great
 
 <div align="center">
+
+<br/>
+
+*Always open to discussing backend engineering, system design, exciting opportunities, or just a great tech conversation.*
+
+<br/>
 
 <a href="https://www.linkedin.com/in/rishidusane/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>&nbsp;
 <a href="mailto:rishidusane5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
+  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>&nbsp;
 <a href="https://leetcode.com/u/RishiDusane/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-&nbsp;
+  <img src="https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
+</a>&nbsp;
 <a href="https://github.com/RishiDusane">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
 
-<br/><br/>
+<br/><br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" />
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:2d1b69,70:302b63,100:1a1a3e&height=140&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20a%20repo%20if%20it%20helped%20you!&fontSize=16&fontColor=c4b5fd&fontAlignY=62&animation=fadeIn" />
 
 </div>
