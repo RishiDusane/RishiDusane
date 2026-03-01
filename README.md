@@ -5,6 +5,11 @@
 
 <br/>
 
+<!-- 🎨 CARTOON DEVELOPER ANIMATION — centered hero visual -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Developer Animation"/>
+
+<br/>
+
 <!-- POWER BRANDING STATEMENT -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=99999&color=8B5CF6&center=true&vCenter=true&width=700&height=28&lines=%E2%80%9C+Turning+Complex+Problems+into+Scalable+Backend+Solutions+%E2%80%9D)](https://git.io/typing-svg)
 
@@ -46,7 +51,8 @@
 
 <!-- ████████████████████  ABOUT ME  ████████████████████ -->
 
-<img align="right" alt="Backend Engineering" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<!-- 🎨 CARTOON CODING CHARACTER — floated right beside About Me text -->
+<img align="right" alt="Cartoon Developer Coding" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
 ## 🧑‍💻 About Me
 
@@ -79,6 +85,15 @@
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
+
+<!-- 🎨 CARTOON TECH ANIMATION — subtle, centered above tech stack -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Tech Animation" />&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Tech Animation" />&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Tech Animation" />&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Tech Animation" />&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Tech Animation" />
+
+<br/><br/>
 
 ### 💬 Languages
 <br/>
@@ -173,6 +188,9 @@
 
 <div align="center">
 
+<!-- 🎨 CARTOON CLOUD / BACKEND ANIMATION beside project -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="280" alt="Cloud Native Animation" />
+
 > **`Java 21`** &nbsp;·&nbsp; **`Spring Boot`** &nbsp;·&nbsp; **`Microservices`** &nbsp;·&nbsp; **`JWT + RBAC`** &nbsp;·&nbsp; **`MySQL`** &nbsp;·&nbsp; **`Docker`** &nbsp;·&nbsp; **`GitHub Actions CI/CD`**
 
 </div>
@@ -188,6 +206,8 @@ A **production-grade, cloud-native** travel booking platform architected with a 
 | 🧪 **Quality Assurance** | ~75% service-layer test coverage — JUnit 5 + Mockito with isolated unit & integration test suites |
 | 🐳 **DevOps & Delivery** | Fully containerized with Docker & Docker Compose; automated CI/CD pipelines deployed via GitHub Actions |
 
+<br clear="right"/>
+
 <div align="center">
   <a href="https://github.com/RishiDusane/TripSync">
     <img src="https://img.shields.io/badge/⚡%20Explore%20TripSync%20on%20GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
@@ -201,6 +221,9 @@ A **production-grade, cloud-native** travel booking platform architected with a 
 ### 🏠 Prime Properties — Full-Stack Real Estate Management System
 
 <div align="center">
+
+<!-- 🎨 CARTOON FULL-STACK ANIMATION beside project -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="280" alt="Full Stack Animation" />
 
 > **`Spring Boot`** &nbsp;·&nbsp; **`React.js`** &nbsp;·&nbsp; **`MySQL`** &nbsp;·&nbsp; **`JWT + RBAC`** &nbsp;·&nbsp; **`Hibernate`** &nbsp;·&nbsp; **`Docker Compose`**
 
@@ -216,6 +239,8 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 | ⚡ **ORM Optimization** | Eliminated N+1 query problem using Hibernate `JOIN FETCH`, `@EntityGraph` & strategic eager/lazy loading |
 | 🧪 **Test Coverage** | ~70% coverage across service and integration layers with reproducible, environment-agnostic JUnit test suites |
 | 🐳 **DevOps** | Docker Compose orchestration ensuring consistent, reproducible local and staging environment deployments |
+
+<br clear="right"/>
 
 <div align="center">
   <a href="https://github.com/RishiDusane/PRIME-PROPERTIES-FULLSTACK">
@@ -253,6 +278,11 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 <div align="center">
 
 <br/>
+
+<!-- 🎨 CARTOON THINKING / DSA ANIMATION -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380" alt="Problem Solving Animation" />
+
+<br/><br/>
 
 <a href="https://leetcode.com/u/RishiDusane/">
   <img src="https://leetcode-stats-six.vercel.app/api?username=RishiDusane&theme=dark" alt="LeetCode Stats" width="52%"/>
@@ -293,6 +323,11 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 
 <br/>
 
+<!-- 🎨 CARTOON ROCKET / GROWTH ANIMATION -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="Growth Animation" />
+
+<br/><br/>
+
 | 🚀 Domain | 🔬 What I'm Building & Learning |
 |:---:|:---|
 | ☁️ **Advanced Microservices** | Event-driven architecture with Apache Kafka · Service mesh · Saga pattern · CQRS |
@@ -313,6 +348,11 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 <div align="center">
 
 <br/>
+
+<!-- 🎨 CARTOON HANDSHAKE / CONNECT ANIMATION -->
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" alt="Connect Animation" />
+
+<br/><br/>
 
 *Always open to discussing backend engineering, system design, exciting opportunities, or just a great tech conversation.*
 
