@@ -3,15 +3,13 @@
 <!-- ████████████████████  ANIMATED HEADER BANNER  ████████████████████ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:1a1a3e,60:2d1b69,100:0f0c29&height=220&section=header&text=Rishi%20Dusane&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=%E2%9A%99%EF%B8%8F%20Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices%20%7C%20Cloud-Native%20Systems&descAlignY=60&descSize=17&descColor=c4b5fd&animation=fadeIn&stroke=7c3aed&strokeWidth=1" />
 
-
-
 <!-- POWER BRANDING STATEMENT -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=99999&color=8B5CF6&center=true&vCenter=true&width=700&height=28&lines=%E2%80%9C+Turning+Complex+Problems+into+Scalable+Backend+Solutions+%E2%80%9D)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- TYPING ANIMATION — SKILLS ROTATOR -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=CDAC+%28PG-DAC%29+Certified+Software+Engineer+%F0%9F%8E%93;Java+%7C+C%23+%7C+Spring+Boot+%7C+Microservices;Designing+Production-Grade+Distributed+Systems;JWT+%7C+RBAC+%7C+Secure+REST+API+Architecture;Clean+Code+%E2%80%A2+SOLID+Principles+%E2%80%A2+System+Design;Open+to+Senior+Backend+Engineering+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=CDAC+%28PG-DAC%29+Certified+Software+Engineer+%F0%9F%8E%93;Java+%7C+C%23+%7C+Spring+Boot+%7C+Microservices;Designing+Production-Grade+Distributed+Systems;JWT+%7C+RBAC+%7C+Secure+REST+API+Architecture;Built+AI+Interview+Copilot+%E2%80%94+Full-Stack+AI+App+%F0%9F%A4%96;Clean+Code+%E2%80%A2+SOLID+Principles+%E2%80%A2+System+Design;Open+to+Senior+Backend+Engineering+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -41,12 +39,10 @@
 
 <br/>
 
-<!-- ████████  ANIMATED DIVIDER  ████████ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ████████████████████  ABOUT ME  ████████████████████ -->
 
-<!-- 🎨 CARTOON CODING CHARACTER — floated right beside About Me text -->
 <img align="right" alt="Cartoon Developer Coding" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
 ## 🧑‍💻 About Me
@@ -57,6 +53,7 @@
   role        :  Backend Software Engineer
   certified   :  CDAC PG-DAC · Pune, India 🎓
   core_stack  :  Java · C# · Spring Boot · Microservices
+  ai_project  :  AI Interview Copilot (React + FastAPI + Gemini)
   expertise   :  Distributed Systems · Secure API Design
                  Clean Architecture · System Design
   mindset     :  Performance-driven · Detail-oriented
@@ -67,6 +64,7 @@
 
 - 🏛️ **CDAC (PG-DAC, Pune)** certified with deep grounding in enterprise backend engineering
 - ⚙️ Proven track record building **production-grade microservices**, secure REST APIs & full-stack systems
+- 🤖 Built **AI Interview Copilot** — a full-stack AI app using React, FastAPI & Google Gemini API
 - 🔐 Specialized in **JWT authentication, RBAC, token lifecycle management** & API security architecture
 - 📐 Strong advocate of **Clean Architecture, SOLID principles, DRY & design patterns**
 - 🧠 Consistently sharpening **Data Structures, Algorithms & distributed system design**
@@ -74,14 +72,12 @@
 
 <br clear="right"/>
 
-<!-- ████████  ANIMATED DIVIDER  ████████ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<!-- 🎨 CARTOON TECH ANIMATION — subtle, centered above tech stack -->
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Tech Animation" />&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Tech Animation" />&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Tech Animation" />&nbsp;&nbsp;
@@ -109,13 +105,15 @@
 ### ⚙️ Backend & Frameworks
 <br/>
 
-<img src="https://skillicons.dev/icons?i=spring,dotnet&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,react&theme=dark" />
 
 <br/><br/>
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
@@ -128,13 +126,24 @@
 ### 🗄️ Databases
 <br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" />
 
 <br/><br/>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+### 🤖 AI & Machine Learning
+<br/>
+
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6366f1?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipeline-a78bfa?style=flat-square&logo=openai&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -164,26 +173,59 @@
 
 </div>
 
-<!-- ████████  ANIMATED DIVIDER  ████████ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📌 Featured Projects
 
 <div align="center">
 
-| 🌐 [TripSync](#-tripsync--cloud-native-travel-booking-platform) | 🏠 [Prime Properties](#-prime-properties--full-stack-real-estate-management-system) |
-|:---:|:---:|
-| Cloud-Native · Microservices · Java 21 | Full-Stack · Spring Boot · React.js |
+| 🤖 [AI Interview Copilot](#-ai-interview-copilot--full-stack-ai-powered-interview-simulator) | 🌐 [TripSync](#-tripsync--cloud-native-travel-booking-platform) | 🏠 [Prime Properties](#-prime-properties--full-stack-real-estate-management-system) |
+|:---:|:---:|:---:|
+| Full-Stack AI · React · FastAPI · Gemini | Cloud-Native · Microservices · Java 21 | Full-Stack · Spring Boot · React.js |
 
 </div>
 
 <br/>
 
+---
+
+### 🤖 AI Interview Copilot — Full-Stack AI-Powered Interview Simulator
+
+<div align="center">
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="260" alt="AI Animation" />
+
+> **`React 18`** &nbsp;·&nbsp; **`FastAPI`** &nbsp;·&nbsp; **`Google Gemini AI`** &nbsp;·&nbsp; **`JWT Auth`** &nbsp;·&nbsp; **`SQLite`** &nbsp;·&nbsp; **`Python`** &nbsp;·&nbsp; **`Vite`**
+
+</div>
+
+A **production-grade, full-stack AI interview simulator** that reads your resume and generates personalized technical questions — then evaluates your answers like a Staff Engineer at Google.
+
+| 🔖 Dimension | 💡 Implementation & Impact |
+|:---|:---|
+| 🧠 **AI Engine** | Google Gemini API with custom prompt engineering — evaluates answers with score, strengths, weaknesses & expert model answers |
+| 🔐 **Auth System** | Full JWT authentication — register, email verification, login, forgot/reset password, protected routes |
+| 💬 **Chat Interface** | Real-time dark glassmorphism UI — live timer, typing indicators, evaluation cards, auto-scroll |
+| 📊 **Analytics** | SVG score ring, 3 metric cards, animated counters, hiring manager notes, interview transcript |
+| ⚙️ **Reliability** | Bulletproof JSON parsing with fallbacks — the UI never crashes or shows parsing errors |
+| 🗄️ **Database** | SQLAlchemy + SQLite for user management with bcrypt password hashing |
+
+<br clear="right"/>
+
+<div align="center">
+  <a href="https://github.com/RishiDusane/ai-interview-copilot">
+    <img src="https://img.shields.io/badge/⚡%20Explore%20AI%20Interview%20Copilot%20on%20GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>
+</div>
+
+<br/>
+
+---
+
 ### 🌐 TripSync — Cloud-Native Travel Booking Platform
 
 <div align="center">
 
-<!-- 🎨 CARTOON CLOUD / BACKEND ANIMATION beside project -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="280" alt="Cloud Native Animation" />
 
 > **`Java 21`** &nbsp;·&nbsp; **`Spring Boot`** &nbsp;·&nbsp; **`Microservices`** &nbsp;·&nbsp; **`JWT + RBAC`** &nbsp;·&nbsp; **`MySQL`** &nbsp;·&nbsp; **`Docker`** &nbsp;·&nbsp; **`GitHub Actions CI/CD`**
@@ -217,7 +259,6 @@ A **production-grade, cloud-native** travel booking platform architected with a 
 
 <div align="center">
 
-<!-- 🎨 CARTOON FULL-STACK ANIMATION beside project -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="280" alt="Full Stack Animation" />
 
 > **`Spring Boot`** &nbsp;·&nbsp; **`React.js`** &nbsp;·&nbsp; **`MySQL`** &nbsp;·&nbsp; **`JWT + RBAC`** &nbsp;·&nbsp; **`Hibernate`** &nbsp;·&nbsp; **`Docker Compose`**
@@ -243,7 +284,6 @@ An **enterprise-grade, full-stack** property management platform with multi-role
   </a>
 </div>
 
-<!-- ████████  ANIMATED DIVIDER  ████████ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
@@ -265,7 +305,6 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 
 </div>
 
-<!-- ████████  ANIMATED DIVIDER  ████████ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 LeetCode — Problem Solving
@@ -274,7 +313,6 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 
 <br/>
 
-<!-- 🎨 CARTOON THINKING / DSA ANIMATION -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380" alt="Problem Solving Animation" />
 
 <br/><br/>
@@ -296,7 +334,6 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 
 </div>
 
-<!-- ████████  ANIMATED DIVIDER  ████████ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏅 GitHub Achievements
@@ -309,7 +346,6 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 
 </div>
 
-<!-- ████████  ANIMATED DIVIDER  ████████ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 Currently Engineering
@@ -318,13 +354,13 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 
 <br/>
 
-<!-- 🎨 CARTOON ROCKET / GROWTH ANIMATION -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="Growth Animation" />
 
 <br/><br/>
 
 | 🚀 Domain | 🔬 What I'm Building & Learning |
 |:---:|:---|
+| 🤖 **AI Engineering** | Prompt engineering · RAG pipelines · Structured AI output parsing · LLM integration in production apps |
 | ☁️ **Advanced Microservices** | Event-driven architecture with Apache Kafka · Service mesh · Saga pattern · CQRS |
 | ⚡ **Backend Performance** | Redis caching strategies · Connection pooling · Async processing & thread optimization |
 | 🧠 **Data Structures & Algorithms** | LeetCode — Graphs, Trees, DP, Sliding Window, Binary Search — pattern-first approach |
@@ -335,7 +371,6 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 
 </div>
 
-<!-- ████████  ANIMATED DIVIDER  ████████ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Let's Build Something Great
@@ -344,7 +379,6 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 
 <br/>
 
-<!-- 🎨 CARTOON HANDSHAKE / CONNECT ANIMATION -->
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" alt="Connect Animation" />
 
 <br/><br/>
@@ -368,7 +402,6 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 
 <br/><br/><br/>
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:2d1b69,70:302b63,100:1a1a3e&height=140&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20a%20repo%20if%20it%20helped%20you!&fontSize=16&fontColor=c4b5fd&fontAlignY=62&animation=fadeIn" />
 
 </div>
