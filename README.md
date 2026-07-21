@@ -318,7 +318,7 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 <br/><br/>
 
 <a href="https://leetcode.com/u/RishiiiDusane">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=RishiDusane&theme=dark" alt="LeetCode Stats" width="52%"/>
+  <img src="https://leetcard.jacoblin.cool/RishiiiDusane?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" width="52%"/>
 </a>
 
 <br/><br/>
