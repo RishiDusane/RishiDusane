@@ -20,7 +20,7 @@
 <a href="mailto:rishidusane5@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-rishidusane5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>&nbsp;
-<a href="https://leetcode.com/u/RishiDusane/">
+<a href="https://leetcode.com/u/RishiiiDusane">
   <img src="https://img.shields.io/badge/LeetCode-RishiDusane-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
 </a>&nbsp;
 <a href="https://github.com/RishiDusane">
@@ -317,7 +317,7 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/RishiDusane/">
+<a href="https://leetcode.com/u/RishiiiDusane">
   <img src="https://leetcode-stats-six.vercel.app/api?username=RishiDusane&theme=dark" alt="LeetCode Stats" width="52%"/>
 </a>
 
@@ -328,7 +328,7 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 
 <br/>
 
-<a href="https://leetcode.com/u/RishiDusane/">
+<a href="https://leetcode.com/u/RishiiiDusane">
   <img src="https://img.shields.io/badge/🧩%20Challenge%20Me%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
 </a>
 
@@ -393,7 +393,7 @@ An **enterprise-grade, full-stack** property management platform with multi-role
 <a href="mailto:rishidusane5@gmail.com">
   <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>&nbsp;
-<a href="https://leetcode.com/u/RishiDusane/">
+<a href="https://leetcode.com/u/RishiiiDusane">
   <img src="https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
 </a>&nbsp;
 <a href="https://github.com/RishiDusane">
